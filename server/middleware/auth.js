@@ -22,4 +22,4 @@ const auth = async (req, res, next) => {
   }
 };
 
-export default auth;router.get('/:id', getPost);
+export default auth;
